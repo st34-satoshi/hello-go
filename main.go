@@ -1,4 +1,4 @@
-package sample
+package hello_go
 
 import (
 	"fmt"
